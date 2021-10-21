@@ -2,8 +2,8 @@
 Hello, my name is Farheen and I am a Data Science enthusiast from Alberta, Canada. 🌱 I’m currently learning machine learning models in R and Python. 
 
 Past Projects (in my repository):
-Hangman (just for fun) : Loops and Functions
-Algorithm Designs involving Arrays, Grids, Stacks, Queues, Search & Swap Algorithms, Binary Trees, Heaps
+Hangman (just for fun) : Loops and Functions | 
+Algorithm Designs involving Arrays, Grids, Stacks, Queues, Search & Swap Algorithms, Binary Trees, Heaps | 
 Telecom Churn Prediction: Churn Customers - Decision Tree - Naive Bayes
 
 Current Project:
