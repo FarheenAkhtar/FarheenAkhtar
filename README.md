@@ -1,5 +1,7 @@
 ### Hi there 👋
-Hello, my name is Farheen and I'm a tech enthusiast from Alberta, Canada![image](https://user-images.githubusercontent.com/64049842/190914959-1685f9c2-5ae8-49fa-9e8f-479faed54639.png)
+Hello, my name is Farheen and I'm a tech enthusiast from Alberta, Canada!
+
+[image](https://user-images.githubusercontent.com/64049842/190914959-1685f9c2-5ae8-49fa-9e8f-479faed54639.png)
 
  After learning machine learning models in R and Python, I'm currently furthering my skills in JAVA, and pushing personal projects to this account. 
 
