@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, my name is Farheen and I'm a tech enthusiast from Alberta, Canada! After learning machine learning models in R and Python, I'm currently furthering my skills in JAVA, and pushing personal projects to this account. 
+Hello, my name is Farheen and I'm a tech enthusiast from Alberta, Canada! After learning machine learning models in R and Python, I'm currently furthering my skills in JAVASCRIPT, and pushing personal projects to this account. 
 
 Past Projects (in my repository):
 Hangman (just for fun) : Loops and Functions | 
